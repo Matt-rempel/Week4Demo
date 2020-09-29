@@ -12,6 +12,6 @@
         <title>Hello World</title>
     </head>
     <body>
-        <h1>Hello ${firstname} ${lastname}</h1>
+        <h1>Hello ${person.firstname} ${person.lastname}</h1>
     </body>
 </html>
